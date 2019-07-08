@@ -1,6 +1,6 @@
-# Comuni Veneto
+# Comuni Veneto 🏙️
 
-Lista dei comuni della Regione Veneto. Il file JSON (`comuni-veneto.json`)[https://github.com/venetochevogliamo/comuni/blob/master/comuni-veneto.json] segue il seguente schema:
+Lista dei comuni della Regione Veneto. Il file JSON [`comuni-veneto.json`](https://github.com/venetochevogliamo/comuni/blob/master/comuni-veneto.json) segue il seguente schema:
 
 ```
 {
